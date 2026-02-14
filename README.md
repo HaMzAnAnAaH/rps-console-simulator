@@ -27,4 +27,18 @@ Computer chose: Scissors
 
 *Colored background changes based on the result (Green = Win, Red = Lose, Yellow = Draw)*
 
+📊 How Many Programming Problems This Rock-Paper-Scissors Project Covers?
+The Rock-Paper-Scissors game you provided is a complete project that integrates multiple programming concepts. Below, I will break it down into distinct programming problems that this project is equivalent to.
+
 <img width="895" height="1048" alt="PJKg1vClRpKUWrnWArzQ_2" src="https://github.com/user-attachments/assets/1a15301f-9128-4c49-8c23-bb7cac0f21da" />
+
+📊 Final Estimation
+This Rock-Paper-Scissors project covers at least 20 distinct programming problems that are commonly found in beginner-to-intermediate C++ exercises.
+
+🚀 Why Is This a Great Project?
+Covers multiple fundamental concepts in one interactive program.
+Combines problem-solving skills like input validation, decision-making, and loops.
+Mimics a real-world application (simple AI, structured game flow, user interaction).
+Encourages extensions (you can add timers, leaderboards, multiplayer mode).
+
+🚀 This project is equivalent to a solid problem-solving exercise set and is an ideal portfolio project for beginner and intermediate C++ programmers!
