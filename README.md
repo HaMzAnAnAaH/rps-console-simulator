@@ -27,3 +27,4 @@ Computer chose: Scissors
 
 *Colored background changes based on the result (Green = Win, Red = Lose, Yellow = Draw)*
 
+<img width="895" height="1048" alt="PJKg1vClRpKUWrnWArzQ_2" src="https://github.com/user-attachments/assets/1a15301f-9128-4c49-8c23-bb7cac0f21da" />
