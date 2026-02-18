@@ -14,7 +14,7 @@ This project demonstrates clean **game logic**, **user input handling**, and **c
 - Colored console output for **Win / Lose / Draw**
 - Simple and clean console interface
 - Input validation for a smooth user experience
-- Portable C++ code, runs in any standard terminal
+- Portable C++ code, runs in any standard terminal.
 
 ---
 
