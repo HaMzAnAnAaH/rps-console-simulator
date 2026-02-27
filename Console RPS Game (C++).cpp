@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 #include <cstdlib>    // Include cstdlib for rand() and srand() functions.
-#include <ctime>      // Include ctime for the time() function, used for seeding the random number generator.
+#include <ctime>      // Include ctime for the time() function, used for seeding the random number generator .
 #define GREEN_BG  "\033[42m"
 #define RED_BG    "\033[41m"
 #define YELLOW_BG "\033[43m"
@@ -184,5 +184,6 @@ int main()
     return 0;
 
 }
+
 
 
