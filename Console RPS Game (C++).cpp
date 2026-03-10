@@ -25,6 +25,7 @@ int ReadUserNumber(string txt){
     return number;
 }
 
+
 int RandomNumber(int From, int To)
 {
     // Calculate a random number in the range [From, To]:
@@ -184,6 +185,7 @@ int main()
     return 0;
 
 }
+
 
 
 
