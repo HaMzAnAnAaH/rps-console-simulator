@@ -7,7 +7,6 @@
 #define YELLOW_BG "\033[43m"
 
 
-
 using namespace std;
 
 int UserCount =0;
